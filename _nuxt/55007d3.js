@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{362:function(n,o,e){"use strict";e.r(o),o.default={nav:{home:"ホーム",resume:"履歴書",contact:"お問い合わせ"},personalInfo:{name:"平木 恵",location:"東京・千葉、日本",position:"ソフトウェアエンジニア"},"Im Kei":"平木と申します。"}}}]);
